@@ -1,0 +1,78 @@
+body {
+    background-color: white;
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/575690321265765209/099419F01F6BBFE21852CC8BA2B93D0EBD20FE99/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+  }
+  
+
+  
+  
+  h1 {
+    color: black;
+    background-color: lightgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    border-radius: 30px;
+    border-style: groove;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+  }
+
+  p {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    border-style: groove;
+    border-color: black;
+    text-align: center;
+    
+  }
+
+  g {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    background-color: white;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+    text-align: center;
+  
+  }
+
+  w {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    background-color: white;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+    text-align: center;
+
+  }
+
+  j {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    background-color: white;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+    text-align: center;
+
+  }
+
+  img {
+    /* IMAGE */
+    width: 150px;
+    right: 300px;
+}
